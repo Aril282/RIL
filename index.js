@@ -4190,7 +4190,7 @@ ltsm = [
 {title:'RESTART', description:'Klik ini untuk merestart bot', rowId:'restartmans'}
 ]
 sendList(from, `\`\`\`Hi Kak 👋.\`\`\``, `\`\`\`Use The Bot As Best You Can And Dont Misuse The Bot Feature\`\`\``, '© Creator : MyMans APIs', 'List Menu', [
-{title:'Subscribe Ikyy Ads', rows:ltsm}
+{title:'Subscribe Aril Ads', rows:ltsm}
 ], {quoted:mek})
 }
 if (budy.startsWith('_')){
@@ -4264,7 +4264,7 @@ starts()
 *          THANKS TO :
 *               - MHANKBARBAR$
 *               - ZITSRA
-*               - Veanz
+*               - ARIL GANZ
 *               -ANU TIM NASWARI SEMUA DAH POKONYA
 *               -GALANG
 * MON MAAF KALO ADA SALAH YA OM🙏
